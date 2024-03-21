@@ -1,0 +1,3 @@
+Schema - Define the structure
+    Schema -Model
+    using MOdel we do CRUD Operation
